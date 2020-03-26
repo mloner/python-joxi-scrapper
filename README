@@ -1,0 +1,8 @@
+The script scrapes random pictures from pastenow.ru and saves it into 'pcs' folder.
+Multithreading supported.
+
+HOW TO RUN:
+  python main.py countOfThreads
+  OR
+  python main.py countOfThreads countOfPictures
+
